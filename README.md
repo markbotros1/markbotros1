@@ -6,6 +6,6 @@ Here are some of the projects that I plan to work on soon:
 
 📈 Stock Price prediction (time series forecasting)
 
-👁️ Something related to Computer Vision..
+👁️ Something related to Computer Vision...
 
 NOTE: I'm actively looking for full-time Data Science or ML Engineering opportunities. My email is mab583@cornell.edu — don't hesitate to reach out if you know of any opportunities (or if you'd like to discuss a project)!
